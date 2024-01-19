@@ -10,18 +10,31 @@ Assembly, C, C++, C#, CUDA, Dart, F#, Go, JavaScript, Rust, TypeScript and Node,
 Web
 CSS, HTML, User Interface, React, Angular, WebAssembly, XML, JSON, REST API, Blazor.
 
+Cybersecurity:
+Best practices, software security, secrets management, penetration tests, fuzzing.
 
-Specifications                                       ------        No Code / Prompt Engineering
-Functional, technical, architecture diagrams.        ------        Blueprint, Ink, ChatGPT, Airtable.
+Data Processing Systems:
+SQL, NoSQL, LINQ, Big Data.
 
- 
-DevOps                                                                                                            ------        Hardware Architecture
-Version management, GIT, Continuous Integration, UNIX, virtualisation, Kubernetes, Docker, AWS, Azure, GCP.       ------        Von Neumann architecture, binary arithmetic, Boolean logic, FPGA, VHDL.
+-----------------------------------------------------------------------------------------
 
+Specifications
+Functional, technical, architecture diagrams.
 
-Infrastructure                                                 ------      Quality
-Network, HTTPS, Bluetooth, Wifi, LoRa, operating systems.      ------      Unit tests, TDD, integration tests, test plan designs, stress tests.
+No Code / Prompt Engineering
+Blueprint, Ink, ChatGPT, Airtable.
 
+DevOps
+Version management, GIT, Continuous Integration, UNIX, virtualisation, Kubernetes, Docker, AWS, Azure, GCP.
+
+Hardware Architecture
+Von Neumann architecture, binary arithmetic, Boolean logic, FPGA, VHDL.
+
+Infrastructure
+Network, HTTPS, Bluetooth, Wifi, LoRa, operating systems.
+
+Quality
+Unit tests, TDD, integration tests, test plan designs, stress tests.
 
 Smartphone
 React Native/Expo, Flutter, NativeScript, .NET MAUI.
@@ -31,11 +44,3 @@ Virtual/augmented reality, retrogaming, gameplay, 2D and 3D images, raytracing, 
 
 Artificial Intelligence
 TensorFlow, neural networks, deep-learning, LLM.
-
-Cybersecurity
-
-Best practices, software security, secrets management, penetration tests, fuzzing.
-
-Data Processing Systems:
-
-SQL, NoSQL, LINQ, Big Data.
