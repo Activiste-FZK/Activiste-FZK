@@ -33,7 +33,9 @@ Artificial Intelligence
 TensorFlow, neural networks, deep-learning, LLM.
 
 Cybersecurity
+
 Best practices, software security, secrets management, penetration tests, fuzzing.
 
-Data Processing Systems
+Data Processing Systems:
+
 SQL, NoSQL, LINQ, Big Data.
