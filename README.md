@@ -1,23 +1,29 @@
 ![mous](https://github.com/Activiste-FZK/Activiste-FZK/assets/148342202/8cbd35b2-8e01-45f5-b3cc-f1f5907251b6)
-- 👋 Hi, I’m @Activiste-FZK
-- 👀 I’m interested in Hacking and Cyber
-- 🌱 I’m currently learning cybersecurity, pentesting and Universal Coding
+------------------------------]------------------------)-----#------[ 👋 Hi, I’m @Activiste-FZK ]----------------------|------{----------------------}---------------(-----
+------({-----|------\------/{--------/------ 👀 I’m interested in Hacking and CyberSec ---------------{--------------------_---------------\-----
+-----[-----)---------------------- 🌱 I’m currently learning cybersecurity, pentesting and Universal Coding -----------------}-------------------
+
+How to reach me ----> https://guns.lol/FZK <---- For more information
+  
 - 💞️ I’m looking to collaborate on HackForce (EU-Anonymous)
-- 📫 How to reach me: link in my bio
-
+____
 Programming Languages
+
 Assembly, C, C++, C#, CUDA, Dart, F#, Go, Java, JavaScript, Rust, TypeScript and Node, Python, php, git.
-
+--
 Web
+
 CSS, HTML, User Interface, React, Angular, WebAssembly, XML, JSON, REST API, Blazor.
-
+--
 Cybersecurity:
+
 Best practices, software security, secrets management, penetration tests, fuzzing, linux
-
+--
 Data Processing Systems:
-SQL, NoSQL, LINQ, Big Data, mysql.
 
------------------------------------------------------------------------------------------
+SQL, NoSQL, LINQ, Big Data, mysql.
+--
+------------------------------------------------------------------------------------------------------------------------
 
 Specifications
 Functional, technical, architecture diagrams.
@@ -45,9 +51,6 @@ Virtual/augmented reality, retrogaming, gameplay, 2D and 3D images, raytracing, 
 
 Artificial Intelligence
 TensorFlow, neural networks, deep-learning, LLM.
---------------------------------------------------------more information-------------------------------------------------------
-
-https://guns.lol/FZK
 
 --------------------------------------------------------MY CREW-------------------------------------------------------
 
