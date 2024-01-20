@@ -45,3 +45,4 @@ Virtual/augmented reality, retrogaming, gameplay, 2D and 3D images, raytracing, 
 
 Artificial Intelligence
 TensorFlow, neural networks, deep-learning, LLM.
+![fxntome_banner](https://github.com/Activiste-FZK/Activiste-FZK/assets/148342202/ae01e48e-4067-4375-becc-8b9bc5cfbfb1)
