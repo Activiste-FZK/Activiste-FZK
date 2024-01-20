@@ -5,7 +5,7 @@
 
 How to reach me ----> https://guns.lol/FZK <---- For more information
   
-                                           💞️ I’m looking to collaborate on HackForce (EU-Anonymous)
+                                           💞️ I’m looking to collaborate with HackForce (EU-Anonymous)
 ____
 Programming Languages
 
