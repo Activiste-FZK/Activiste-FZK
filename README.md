@@ -15,11 +15,11 @@ Web
 
 CSS, HTML, User Interface, React, Angular, WebAssembly, XML, JSON, REST API, Blazor.
 --
-Cybersecurity:
+Cybersecurity
 
 Best practices, software security, secrets management, penetration tests, fuzzing, linux
 --
-Data Processing Systems:
+Data Processing Systems
 
 SQL, NoSQL, LINQ, Big Data, mysql.
 --
@@ -51,6 +51,9 @@ Virtual/augmented reality, retrogaming, gameplay, 2D and 3D images, raytracing, 
 
 Artificial Intelligence
 TensorFlow, neural networks, deep-learning, LLM.
+____
+Tools-Panel / Logs / Carding / DB / Ransomwares-Backdoors / Ebooks / Dumps / and more...
+____
 
 --------------------------------------------------------MY CREW-------------------------------------------------------
 
