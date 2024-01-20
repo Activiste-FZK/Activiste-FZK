@@ -1,7 +1,7 @@
 ![mous](https://github.com/Activiste-FZK/Activiste-FZK/assets/148342202/8cbd35b2-8e01-45f5-b3cc-f1f5907251b6)
 ------------------------------]------------)-----#------[ 👋 Hi, I’m @Activiste-FZK ]----------------------|------{---------}---------------(-----
 ------({-----|------\------/{-------------/------ 👀 I’m interested in Hacking and CyberSec ---------------{--------------------_---------------\-----
------[-----)----------------- 🌱 I’m currently learning cybersecurity, pentesting and Universal Coding -----------------}-------------------
+-----[-----)----------------- 🌱 I’m currently learning cybersecurity, pentesting and Universal Coding -----------------}-----------------------
 
 How to reach me ----> https://guns.lol/FZK <---- For more information
   
