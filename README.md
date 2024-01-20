@@ -6,16 +6,16 @@
 - 📫 How to reach me: link in my bio
 
 Programming Languages
-Assembly, C, C++, C#, CUDA, Dart, F#, Go, JavaScript, Rust, TypeScript and Node, Python.
+Assembly, C, C++, C#, CUDA, Dart, F#, Go, Java, JavaScript, Rust, TypeScript and Node, Python, php, git.
 
 Web
 CSS, HTML, User Interface, React, Angular, WebAssembly, XML, JSON, REST API, Blazor.
 
 Cybersecurity:
-Best practices, software security, secrets management, penetration tests, fuzzing.
+Best practices, software security, secrets management, penetration tests, fuzzing, linux
 
 Data Processing Systems:
-SQL, NoSQL, LINQ, Big Data.
+SQL, NoSQL, LINQ, Big Data, mysql.
 
 -----------------------------------------------------------------------------------------
 
@@ -45,6 +45,9 @@ Virtual/augmented reality, retrogaming, gameplay, 2D and 3D images, raytracing, 
 
 Artificial Intelligence
 TensorFlow, neural networks, deep-learning, LLM.
+--------------------------------------------------------more information-------------------------------------------------------
+
+https://guns.lol/FZK
 
 --------------------------------------------------------MY CREW-------------------------------------------------------
 
