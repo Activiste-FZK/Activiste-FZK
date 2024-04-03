@@ -59,4 +59,4 @@ ____
 
 https://discord.gg/Ak-x
 
-![fxntome_banner](https://github.com/Activiste-FZK/Activiste-FZK/assets/148342202/ae01e48e-4067-4375-becc-8b9bc5cfbfb1)
+![Uploading akastuki_1banniere.png…]()
