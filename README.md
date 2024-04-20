@@ -57,6 +57,6 @@ ____
 
 --------------------------------------------------------MY CREW-------------------------------------------------------
 
-https://discord.gg/Ak-x
+https://discord.gg/cgg
 
-![image](https://github.com/Mosquito-Fx/Activiste-FZK/assets/148342202/412a40ba-23be-4d33-be02-b28c70b4faa4)
+![image](https://github.com/Mosquito-Fx/Activiste-FZK/assets/148342202/eaa5063e-a7a5-44cd-b9e4-5e42830d65b1)
