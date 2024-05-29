@@ -57,6 +57,4 @@ ____
 
 --------------------------------------------------------MY CREW-------------------------------------------------------
 
-https://discord.gg/cgg
-
-![image](https://github.com/Mosquito-Fx/Activiste-FZK/assets/148342202/eaa5063e-a7a5-44cd-b9e4-5e42830d65b1)
+https://discord.gg/Pegasus
