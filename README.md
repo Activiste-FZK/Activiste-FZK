@@ -3,7 +3,7 @@
 ------({-----|------\------/{-------------/------ 👀 I’m interested in Hacking and CyberSec ---------------{--------------------_---------------\-----
 -----[-----)----------------- 🌱 I’m currently learning cybersecurity, pentesting and Universal Coding -----------------}-----------------------
 
-How to reach me ----> https://guns.lol/FZK <---- For more information
+How to reach me ----> https://guns.lol/Talentueux <---- For more information
   
                               💞️ I’m looking to collaborate with HackForce (EU-Anonymous)
 ____
