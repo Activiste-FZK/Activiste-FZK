@@ -23,7 +23,7 @@ Data Processing Systems
 
 SQL, NoSQL, LINQ, Big Data, mysql.
 --
-
+free time
 osint and all these varieties (csint, geosint, etc...)
 --
 ------------------------------------------------------------------------------------------------------------------------
