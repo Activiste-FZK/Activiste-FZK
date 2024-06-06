@@ -6,7 +6,7 @@
 How to reach me ----> https://guns.lol/Talentueux <---- For more information
   
                               💞️ I’m looking to collaborate with HackForce (EU-Anonymous)
-____
+____ 
 Programming Languages
 
 Assembly, C, C++, C#, CUDA, Dart, F#, Go, Java, JavaScript, Rust, TypeScript and Node, Python, php, git.
@@ -22,6 +22,9 @@ Best practices, software security, secrets management, penetration tests, fuzzin
 Data Processing Systems
 
 SQL, NoSQL, LINQ, Big Data, mysql.
+--
+
+osint and all these varieties (csint, geosint, etc...)
 --
 ------------------------------------------------------------------------------------------------------------------------
 
