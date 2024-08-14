@@ -1,4 +1,4 @@
-![mous](https://github.com/Activiste-FZK/Activiste-FZK/assets/148342202/8cbd35b2-8e01-45f5-b3cc-f1f5907251b6)
+![Banner_for_Mosquito](https://github.com/user-attachments/assets/ce31e123-7340-4cc3-81ab-84474233b71c)
 ------------------------------]------------)-----#------[ 👋 Hi, I’m @Mosquito]----------------------|------{---------}---------------(-----
 ------({-----|------\------/{-------------/------ 👀 I’m interested in Hacking and CyberSec ---------------{--------------------_---------------\-----
 -----[-----)----------------- 🌱 I’m currently learning cybersecurity, pentesting, Universal Coding and osint -----------------}-----------------------
@@ -9,7 +9,7 @@ How to reach me ----> https://guns.lol/Talentueux <---- For more information
 ____ 
 Programming Languages
 
-Assembly, C, C++, C#, CUDA, Dart, F#, Go, Java, JavaScript, Rust, TypeScript and Node, Python, php, git.
+Assembly, C, C++, C#, CUDA, Dart, F#, Go, Java, JavaScript, Rust, TypeScript and Node, Python, php, git, golang, lua.
 --
 Web
 
@@ -58,7 +58,3 @@ TensorFlow, neural networks, deep-learning, LLM.
 ____
 Tools-Panel / Logs / Carding / DB / Ransomwares-Backdoors / Ebooks / Dumps / and more...
 ____
-
---------------------------------------------------------MY CREW-------------------------------------------------------
-
-https://discord.gg/Pegasus
