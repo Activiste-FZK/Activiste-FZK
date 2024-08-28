@@ -1,4 +1,3 @@
-![Banner_for_Mosquito](https://github.com/user-attachments/assets/ce31e123-7340-4cc3-81ab-84474233b71c)
 ------------------------------]------------)-----#------[ 👋 Hi, I’m @Mosquito]----------------------|------{---------}---------------(-----
 ------({-----|------\------/{-------------/------ 👀 I’m interested in Hacking and CyberSec ---------------{--------------------_---------------\-----
 -----[-----)----------------- 🌱 I’m currently learning cybersecurity, pentesting, Universal Coding and osint -----------------}-----------------------
